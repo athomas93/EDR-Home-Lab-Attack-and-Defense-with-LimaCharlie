@@ -1,7 +1,11 @@
 # Home Lab
 
 ## Objective
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This lab focuses on simulating a real-world cyber attack and testing endpoint detection and response (EDR). Following Eric Capuano's online guide, I used virtual machines to replicate both threat and victim environments. The attack machine will employ 'Sliver' as a command-and-control (C2) framework to target a Windows endpoint, which will be protected by 'LimaCharlie' as the EDR solution.
+
+<https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web>
+
+Eric Capuano's Guide: 
 
 ### Skills Learned
 - Advanced understanding of SIEM concepts and practical application.
