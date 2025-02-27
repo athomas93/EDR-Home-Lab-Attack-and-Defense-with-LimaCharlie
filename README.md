@@ -3,9 +3,7 @@
 ## Objective
 This lab focuses on simulating a real-world cyber attack and testing endpoint detection and response (EDR). Following Eric Capuano's online guide, I used virtual machines to replicate both threat and victim environments. The attack machine will employ 'Sliver' as a command-and-control (C2) framework to target a Windows endpoint, which will be protected by 'LimaCharlie' as the EDR solution.
 
-<https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web>
-
-Eric Capuano's Guide: 
+Eric Capuano's Guide: <https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web>
 
 ### Skills Learned
 - Advanced understanding of SIEM concepts and practical application.
