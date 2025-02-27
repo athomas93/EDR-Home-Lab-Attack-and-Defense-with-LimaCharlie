@@ -7,7 +7,7 @@ Eric Capuano's Guide: <https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analy
 
 ### Tools Used
 - VMWare NAT Network which was used to create the virtualized network environment
-- Ubuntu Server and Windows 10 virtual machine's to simulate the attack and victim systems
+- Ubuntu Server and Windows 10 virtual machines to simulate the attack and victim systems
 - LimaCharlie EDR on the victim machine to enhance security monitoring and threat detection capabilities
 - Sliver-Server installed on the Ubuntu Server as a Command & Control (C2) attack tool for exploitation
 
