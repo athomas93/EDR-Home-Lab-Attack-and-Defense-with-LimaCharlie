@@ -1,7 +1,8 @@
 # EDR Home Lab: Attack and Defense
 
 ## Objective
-![68747470733a2f2f692e696d6775722e636f6d2f366d667473456b2e6a7067](https://github.com/user-attachments/assets/9371ceed-2552-4f67-affc-92dc24d63dd8)
+![EDR AD](https://github.com/user-attachments/assets/6ba41b0a-836c-4620-83b2-5abb10bb25e7)
+
 
 This lab focuses on simulating a real-world cyber attack and testing endpoint detection and response (EDR). Following Eric Capuano's online guide, I will use virtual machines to replicate both threat and victim environments. The attack machine will employ 'Sliver' as a command-and-control (C2) framework to target a Windows endpoint, which will be protected by 'LimaCharlie' as the EDR solution.
 
