@@ -6,8 +6,6 @@
 
 This lab focuses on simulating a real-world cyber attack and testing endpoint detection and response (EDR). Following Eric Capuano's online guide, I will use virtual machines to replicate both threat and victim environments. The attack machine will employ 'Sliver' as a command-and-control (C2) framework to target a Windows endpoint, which will be protected by 'LimaCharlie' as the EDR solution.
 
-Eric Capuano's Guide: <https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web>
-
 ### Tools Used
 - VMWare NAT Network which was used to create the virtualized network environment
 - Ubuntu Server and Windows 10 virtual machines to simulate the attack and victim systems
@@ -63,5 +61,7 @@ Now, rather than just detecting attacks, we can use LimaCharlie to create a rule
 ![Screenshot 2025-02-26 185114](https://github.com/user-attachments/assets/624a8ba7-30f2-4a37-b62b-b57c286aa55d)
 ![Screenshot 2025-02-26 185846](https://github.com/user-attachments/assets/f98b41bc-f92e-4ee8-b335-0664d26097f0)
 ![Screenshot 2025-02-26 190018](https://github.com/user-attachments/assets/5052adff-e260-48e4-acce-9e4d3287ec05)
+
+Credits go to Eric Capuano: <https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web>
 
 
