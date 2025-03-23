@@ -1,4 +1,4 @@
-# EDR Home Lab: Attack and Defense
+# EDR Home Lab: Attack and Defense with LimaCharlie
 
 ## Objective
 ![EDR AD](https://github.com/user-attachments/assets/6ba41b0a-836c-4620-83b2-5abb10bb25e7)
